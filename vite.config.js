@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/fed22d-grafiska-verktyg-bruschettan/',
+  base: '/Quant-firefly/',
   define: {
     'process.env': {},
   },
